@@ -61,9 +61,8 @@ Rather than forcing a predictive model from unsuitable data, this audit identifi
 
 Any future structure-based or experimental study should pre-specify:
 1. **Receptor state:** protein construct, biological assembly, cofactors, bound ligands, protonation states, and structural source.
-2. **Controls:** positive controls with independently supported activity, chemically related lower-priority analogues, and procedural negative controls.
+2. **Controls:** define positive, negative, and analogue controls in advance.
 3. **Readouts:** appropriate direct biochemical or biophysical assays, concentration range, replication plan, acceptance criteria, and interpretation rules.
-4. **Decision rule:** a structural hypothesis should be considered supported only if it is reproducible under pre-defined computational controls and agrees with an independent experimental method.
 
 ## Methods
 
